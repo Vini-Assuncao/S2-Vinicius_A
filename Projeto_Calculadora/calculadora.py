@@ -1,7 +1,3 @@
-
-
-
-
     if ope == "+" or ope == "-" or ope == "*" or ope == "/":
         if ope == "+":
             result = num1 + num2
