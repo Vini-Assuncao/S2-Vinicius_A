@@ -14,3 +14,4 @@
         return f'{result:.2f}'
     else:
         return "XX Operação inválida... XX"
+    
